@@ -1,0 +1,9 @@
+uvicorn[standard]
+fastapi
+pydantic
+langchain
+pinecone
+soundcard
+soundfile
+sounddevice
+whisper @ git+https://github.com/openai/whisper.git
